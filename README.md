@@ -15,10 +15,10 @@ wget https://github.com/dell-ai-engineering/BigDL4CDSW/releases/download/1.0/inc
 
 ### Deep Learning with BigDL
 We use BigDL to run through mnist dataset using different models for each one and generate metrics allowing tensorbaord to view them
-#### 1. [Logistic Regression](./2_deeplearning/mnist_lr.py) 
-#### 2. [Feedforward Neural Network](./2_deeplearning/mnist_deep_feed_forward_neural_network.py )
-#### 3. [Convolutional Neural Network](./2_deeplearning/cnn_images.py )
-#### 4. [Recurrent Neural Network](./2_deeplearning/mnist_rnn.py)
+#### 1. [Logistic Regression](./2_deeplearning/lr_mnist.py) 
+#### 2. [Feedforward Neural Network](./2_deeplearning/deep_feed_forward_neural_network_minst.py )
+#### 3. [Convolutional Neural Network](./2_deeplearning/cnn_minst.py )
+#### 4. [Recurrent Neural Network](./2_deeplearning/rnn_mnist.py)
 #### 5. [Bidirectional Recurrent Neural Network](./2_deeplearning/mnist_birnn.py)
 #### 6. [LSTM](./2_deeplearning/lstm_images.py)
 #### 7. [Auto-encoder](./2_deeplearning/mnist_autoencoder.py)
