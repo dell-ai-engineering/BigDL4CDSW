@@ -7,8 +7,8 @@ import datetime as dt
 import tempfile
 
 import sys
-print(os.path.abspath(os.path.join('../neural_networks')))
-sys.path.append(os.path.abspath(os.path.join('../neural_networks')))
+print(os.path.abspath(os.path.join('../2_deeplearning/resources')))
+sys.path.append(os.path.abspath(os.path.join('../2_deeplearning/resources')))
 from utils import get_mnist
 
 from bigdl.nn.layer import *

@@ -30,4 +30,4 @@ df = text_data.map(lambda r: Row(r)).toDF(["line"])
 # Counts ERRORs
 errors = df.filter(df["line"].like("%ERROR%"))
 # Counts all the errors
-errors.count()
+print(errors.count())
