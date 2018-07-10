@@ -1,4 +1,4 @@
-# DellEMC Machine Learning Ready Bundle Jumpstart Kit
+# DellEMC Ready Solution for Aritificial Intelligence - Machine Learning with Hadoop - Jumpstart Kit
 Go [HERE](https://github.com/dell-ai-engineering/bigdlengine4cdsw) to download and build the DellEMC customized engine for BigDL on Cloudera Data Science Workbench
 ### Deployment Validation
 #### Test your working environment [Validation Test](validate_infrastruture.py)
