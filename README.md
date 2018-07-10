@@ -25,7 +25,7 @@ We use BigDL to run through mnist dataset using different models for each one an
 
 ### BigDL Features
 #### 1. [Visualization](./3_bigdlfeatures/visualization.py)
-#### 1. [Quantization](./3_bigdlfeatures/quantization.py)
+#### 2. [Quantization](./3_bigdlfeatures/quantization.py)
 
 ### References :
 #### 1. [DellEmc Ready Bundle For Machine Learning ](https://www.dellemc.com/en-us/solutions/data-analytics/machine-learning/index.htm )
