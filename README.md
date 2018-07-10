@@ -9,9 +9,9 @@ wget https://github.com/dell-ai-engineering/BigDL4CDSW/releases/download/1.0/inc
 ```
 
 ### Spark Basics
-#### 1. [Spark RDD](./1_sparkbasics/rdd.py)
-#### 2. [Spark Dataframe](./1_sparkbasics/dataframe.py)
-#### 3. [Spark SQL](./1_sparkbasics/spark_sql.py)
+#### 1. [Spark RDD](./1_sparkbasics/1_rdd.py)
+#### 2. [Spark Dataframe](./1_sparkbasics/2_dataframe.py)
+#### 3. [Spark SQL](./1_sparkbasics/3_spark_sql.py)
 
 ### Deep Learning with BigDL
 We use BigDL to run through mnist dataset using different models for each one and generate metrics allowing tensorbaord to view them
