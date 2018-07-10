@@ -28,7 +28,7 @@ We use BigDL to run through mnist dataset using different models for each one an
 #### 2. [Quantization](./3_bigdlfeatures/quantization.py)
 
 ### References :
-#### 1. [DellEmc Ready Bundle For Machine Learning ](https://www.dellemc.com/en-us/solutions/data-analytics/machine-learning/index.htm )
+#### 1. [DellEMC Ready Bundle For Machine Learning ](https://www.dellemc.com/en-us/solutions/data-analytics/machine-learning/index.htm )
 #### 2. [Cloudera Data Science Workbench Documentation ](https://www.cloudera.com/documentation/data-science-workbench/latest.html )
 #### 3. [Intel BigDL Documnentation ](https://bigdl-project.github.io/0.5.0/)
 #### 4. [ChestXNet Original Paper ](https://stanfordmlgroup.github.io/projects/chexnet/)
