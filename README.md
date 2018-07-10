@@ -4,8 +4,8 @@ Go [HERE](https://github.com/dell-ai-engineering/bigdlengine4cdsw) to download a
 #### Test your working environment [Validation Test](validate_infrastruture.py)
 #### Download the frozen model files for examples from the workbench terminal access menu:
 ```
-wget https://github.com/dell-ai-engineering/BigDL4CDSW/releases/download/0.5.0/bigdl_resnet-50_imagenet_0.4.0.model -P 2_deep_learning/resources/
-wget https://github.com/dell-ai-engineering/BigDL4CDSW/releases/download/0.5.0/inception_v3_2016_08_28_frozen.pb -P 2_deep_learning/resources/frozen_models/
+wget https://github.com/dell-ai-engineering/BigDL4CDSW/releases/download/1.0/bigdl_resnet-50_imagenet_0.4.0.model -P 2_deep_learning/resources/
+wget https://github.com/dell-ai-engineering/BigDL4CDSW/releases/download/1.0/inception_v3_2016_08_28_frozen.pb -P 2_deep_learning/resources/frozen_models/
 ```
 
 ### Spark Basics
