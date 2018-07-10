@@ -3,13 +3,6 @@ import os.path
 
 from IPython.display import display, HTML
 
-
-
-##TODO: formatting in utils
-##TODO: test suite BigDL and results in html table here .
-
-
-
 def html_log(message,tag="H1", color="black",center=False):
   if center:
     display(HTML('<{tag}> <center> <font color="{color}"> {message}</font></center></{tag}>'.format(tag=tag, message=message,color=color)))
