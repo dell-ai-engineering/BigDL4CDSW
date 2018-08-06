@@ -1,9 +1,6 @@
 # __Importing a Tensorflow Frozen  Model__
 # ----------------------------------
 
-##### TODO : use bigdl instead of keras image processing
-##### TODO : push images to hdfs and run inference with results to hdfs/hive/sparkstream/kafka/...
- 
 %cd "/home/cdsw/2_deeplearning"
 from sys import path
 sys.path.append('/home/cdsw/2_deeplearning/resources')
